@@ -1,5 +1,5 @@
 # GradeBook Analyzer
-### Name: Akshit
+### Name: DISHU YADAV
 ### Date: 1 november 2025
 ### Course: Programming for Problem Solving using Python
 
@@ -26,6 +26,7 @@ Ritik - 78.0
 Vijay -	77.0 	
 
 #### Author:
-Akshit
+Dishu yadav
+
 
 
